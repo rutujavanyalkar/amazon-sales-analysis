@@ -163,8 +163,8 @@ Profit Margin % = DIVIDE([Total Profit], [Total Sales], 0) * 100
 
 ## 🤝 Connect
 Rutuja Vanyalkar
-*📧 rutujavanyalkar@gmail.com
-*🔗 LinkedIn : https://www.linkedin.com/in/rutuja-vanyalkar29?utm_source=share_via&utm_content=profile&utm_medium=member_ios 
+* 📧 rutujavanyalkar@gmail.com
+* 🔗 LinkedIn : https://www.linkedin.com/in/rutujavanyalkar29
 
 ## 📄 License
 This project is for portfolio and educational purposes.
