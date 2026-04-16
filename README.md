@@ -12,10 +12,10 @@ amazon-sales-analysis/
 ## 🎯 Objective
 To analyse global Amazon sales performance and surface actionable insights across:
 
-Which ship modes generate the most revenue
-Which markets and countries are top performers
-Category-wise and city-wise sales distribution
-KPI tracking across Quantity, Sales, Profit, and Shipping Cost
+* Which ship modes generate the most revenue
+* Which markets and countries are top performers
+* Category-wise and city-wise sales distribution
+* KPI tracking across Quantity, Sales, Profit, and Shipping Cost
 
 ## 📂 Dataset Overview
 
