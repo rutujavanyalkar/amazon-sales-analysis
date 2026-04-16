@@ -116,18 +116,18 @@ Prerequisites
 * Power BI Desktop (free) — version April 2024 or later recommended
 
 Steps
-# 1. Clone or download this repository
+1. Clone or download this repository
 git clone https://github.com/your-username/amazon-sales-powerbi.git
 
-# 2. Open the report
-# Double-click RUTUJA_POWERBI.pbix
-# OR open Power BI Desktop → File → Open → select the .pbix file
+2. Open the report
+Double-click RUTUJA_POWERBI.pbix
+OR open Power BI Desktop → File → Open → select the .pbix file
 
-# 3. If prompted about data source path, update it:
-# Home → Transform Data → Data Source Settings → Change Source
-# Point to ECOMM_DATA.xlsx in your local folder
+3. If prompted about data source path, update it:
+Home → Transform Data → Data Source Settings → Change Source
+Point to ECOMM_DATA.xlsx in your local folder
 
-# 4. Click Refresh to reload data
+4. Click Refresh to reload data
 
 ## 📸 Dashboard Preview
 See Screenshots.pdf for full dashboard screenshots including:
@@ -163,8 +163,8 @@ Profit Margin % = DIVIDE([Total Profit], [Total Sales], 0) * 100
 
 ## 🤝 Connect
 Rutuja Vanyalkar
-📧 rutujavanyalkar@gmail.com
-🔗 LinkedIn
+*📧 rutujavanyalkar@gmail.com
+*🔗 LinkedIn : https://www.linkedin.com/in/rutuja-vanyalkar29?utm_source=share_via&utm_content=profile&utm_medium=member_ios 
 
 ## 📄 License
 This project is for portfolio and educational purposes.
